@@ -3,6 +3,7 @@ layout: default
 title: Resume
 ---
 ## Experience
+
 |Years|Employer|Position|
 |---|---|---|
 |2022-Current|Predge AB|Analytics Developer|
@@ -12,6 +13,7 @@ title: Resume
 
 
 ## Education
+
 |Years|Degree|University|
 |---|---|---|
 |2015-2020|Teknologie Doktor (PhD) in Experimental Mechanics|Luleå University of Technology|
